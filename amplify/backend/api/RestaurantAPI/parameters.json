@@ -1,0 +1,10 @@
+{
+    "AppSyncApiName": "RestaurantAPI",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authcognito986295dc",
+            "Outputs.UserPoolId"
+        ]
+    }
+}

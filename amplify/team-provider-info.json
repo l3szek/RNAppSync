@@ -1,0 +1,19 @@
+{
+    "local": {
+        "awscloudformation": {
+            "AuthRoleName": "rnappsync-20190405101755-authRole",
+            "UnauthRoleArn": "arn:aws:iam::546791415403:role/rnappsync-20190405101755-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::546791415403:role/rnappsync-20190405101755-authRole",
+            "Region": "eu-central-1",
+            "DeploymentBucketName": "rnappsync-20190405101755-deployment",
+            "UnauthRoleName": "rnappsync-20190405101755-unauthRole",
+            "StackName": "rnappsync-20190405101755",
+            "StackId": "arn:aws:cloudformation:eu-central-1:546791415403:stack/rnappsync-20190405101755/50c9ff00-577b-11e9-9008-020300f3c01c"
+        },
+        "categories": {
+            "auth": {
+                "cognito986295dc": {}
+            }
+        }
+    }
+}
